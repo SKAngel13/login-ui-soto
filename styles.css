@@ -4,7 +4,6 @@ body, .container {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: #E84545;
 }
 
 body {
